@@ -7,3 +7,4 @@
 <p align = "center">
   <img src="https://profile-counter.glitch.me/Nizam420/count.svg" />
 </p>
+<h3 align="center">Connect with me 🤝</h3>
