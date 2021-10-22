@@ -27,3 +27,24 @@
 
                     <br>
               <h1>Programming Languages</h1>
+              <p align="left">
+                    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40"
+                        height="40" />
+                    <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" width="40" height="40" />
+                    <img src="https://img.icons8.com/color/480/c-sharp-logo-2.png" alt="csharp" width="40"
+                        height="40" />
+                    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"
+                        height="40" />
+                    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="30"
+                        height="40" />
+                </p>
+                <h1>Tools, Libraries and Frameworks</h1>
+                <p align="left">
+                    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40"
+                        height="40" />
+                    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="flutter" width="40"
+                        height="40" />
+                    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40"
+                        height="40" />
+                </p>
+                <br> <br> <br> <br> <br>
