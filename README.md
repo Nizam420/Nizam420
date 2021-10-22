@@ -26,8 +26,8 @@
                     <br> <br> <br>
 
                     <br>
-              <h1>Programming Languages</h1>
-              <p align="left">
+                <h1>Programming Languages</h1>
+                <p align="left">
                     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40"
                         height="40" />
                     <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" width="40" height="40" />
@@ -48,3 +48,16 @@
                         height="40" />
                 </p>
                 <br> <br> <br> <br> <br>
+                <h2 align="center">My Github Statistics 🔥</h2>
+                <p align="center">
+                    <a href="https://github.com/Ambareen09">
+                        <img align="center" alt="Ambareen's Github stats"
+                            src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Ambareen09&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000" />
+                    </a>
+
+                <h2 align="center">My contribution Streak 🔥</h2>
+                <p align="center">
+                    <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
+                        <img
+                            src="https://github-readme-streak-stats.herokuapp.com/?user=Ambareen09&theme=dark&hide_border=true&background=0D1117&stroke=0000" />
+                    </a>
