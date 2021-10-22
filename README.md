@@ -23,3 +23,15 @@
                     <p /> <br> <br>
                     <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
                     <br> <br> <br>
+  <h1>Programming Languages</h1>
+                <p align="left">
+                    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40"
+                        height="40" />
+                    <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" width="40" height="40" />
+                    <img src="https://img.icons8.com/color/480/c-sharp-logo-2.png" alt="csharp" width="40"
+                        height="40" />
+                    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"
+                        height="40" />
+                    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="30"
+                        height="40" />
+                </p>
