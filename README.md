@@ -37,7 +37,7 @@
                 </p>
    <h1>Libraries</h1>
                 <p align="left">
-                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F1174949%2Fjs_react_js_logo_react_react_native_icon&psig=AOvVaw08JBuuMaTKxm7WKe5MbgKg&ust=1643489770432000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDn2NSq1fUCFQAAAAAdAAAAABAK" alt="React" width="30"
+                    <img src="https://www.import.io/wp-content/uploads/2017/10/React-logo-1.png" alt="React" width="30"
                         height="40" />
                     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40"
                         height="40" />
