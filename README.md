@@ -39,10 +39,12 @@
                 <p align="left">
                     <img src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png" alt="ReactJs" width="30"
                         height="40" />
-                    <img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle.png" alt="Django" width="40"
+                    <img src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle.png" alt="Django" width="30"
                         height="40" />
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="NodeJs" width="40"
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="NodeJs" width="30"
                         height="40" />
-                    <img src="https://w7.pngwing.com/pngs/1005/334/png-transparent-express-js-node-js-javascript-session-web-application-others.png" alt="ExpressJs" width="40" height="40" />
+                    <img src="https://w7.pngwing.com/pngs/1005/334/png-transparent-express-js-node-js-javascript-session-web-application-others.png" alt="ExpressJs" width="30" height="40" />
+                   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"
+                        height="40" />
                     
                 </p>
