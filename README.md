@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, exciting < Developers 😄 /> and cout<<"Coders 🥰"
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, exciting < Developers 😄 /> and System.out.println("Coders 🥰")
   <h1 align="center"> I'm Nizamuddin Mondal 🤩</h1>
   <p align="center"> 
   <h2 align="center">Visitors count</h2>
@@ -26,6 +26,18 @@
    <h1>Programming Languages</h1>
                 <p align="left">
                     <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="30"
+                        height="40" />
+                    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40"
+                        height="40" />
+                    <img src="https://tl.vhv.rs/dpng/s/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png" alt="javascript" width="40"
+                        height="40" />
+                    <img src="https://img.icons8.com/color/452/c-programming.png" alt="c" width="40" height="40" />
+                    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"
+                        height="40" />
+                </p>
+   <h1>Libraries</h1>
+                <p align="left">
+                    <img src=![image](https://user-images.githubusercontent.com/89808462/151620328-25894e06-6b0e-42f5-a79b-3d9a6ce35701.png) alt="React" width="30"
                         height="40" />
                     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40"
                         height="40" />
