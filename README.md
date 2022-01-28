@@ -37,7 +37,7 @@
                 </p>
    <h1>Libraries</h1>
                 <p align="left">
-                    <img src="https://www.import.io/wp-content/uploads/2017/10/React-logo-1.png" alt="React" width="30"
+                    <img src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png" alt="React" width="30"
                         height="40" />
                     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40"
                         height="40" />
