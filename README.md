@@ -1,6 +1,27 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, exciting < Developers 😄 /> and System.out.println("Coders 🥰")
-  <h1 align="center"> I'm Nizamuddin Mondal 🤩</h1>
-  <p align="center"> 
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Nizam420.Nizam420)
+[![Github](https://img.shields.io/github/followers/Nizam420?label=Follow&style=social)](https://github.com/Nizam420)
+
+<div size='20px'> Hi! My name is Nizam. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on  Bharat AI
+  
+- 🌱 I’m currently Learning and Exploring
+  
+- 👯 I’m looking to collaborate on Proyectos
+  
+- 💬 Ask me about Sql, Java, C++, JavaScript
+  
+- ⚡ Fun fact: Me gustan los girasoles.
   <h2 align="center">Visitors count</h2>
 </p>
 
@@ -49,7 +70,7 @@
                 </p>
 
   ![Nizam's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Nizam420&theme=redical&hide_border=true&area=true)
-| ![Nizam's github stats](https://github-readme-stats.vercel.app/api?username=Nizam420&show_icons=true&theme=radical)             | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nizam420&theme=radical)                                                                                                           |
+| ![Nizam's github stats](https://github-readme-stats.vercel.app/api?username=Nizam420&show_icons=true&theme=radical)             | ![Nizam GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nizam420&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizam420&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Nizam420&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
