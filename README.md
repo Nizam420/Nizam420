@@ -45,8 +45,7 @@
                         height="40" />
                     <img src="https://w7.pngwing.com/pngs/1005/334/png-transparent-express-js-node-js-javascript-session-web-application-others.png" alt="ExpressJs" width="30" height="40" />
                    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"
-                        height="40" />
-                    
+                        height="40" />    
                 </p>
 
   ![Nizam's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Nizam420&theme=redical&hide_border=true&area=true)
