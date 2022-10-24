@@ -13,13 +13,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Bharat AI
+- 🔭 I’m currently working on Opiler Technologies
   
 - 🌱 I’m currently Learning and Exploring
   
 - 👯 I’m looking to collaborate on Proyectos
   
-- 💬 Ask me about Sql, Java, C++, JavaScript
+- 💬 Ask me about Sql, Java, C++, JavaScript, C#, Asp.Net
   
 - ⚡ Fun fact: Me gustan los girasoles.
   <h2 align="center">Visitors count</h2>
